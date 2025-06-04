@@ -9,4 +9,4 @@ Navigation bar with search input
 
 Responsive layout for desktop and mobile views
 
-Styled product cards with images, titles, and prices
+Styled product cards with images and titles
